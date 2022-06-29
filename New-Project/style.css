@@ -1,0 +1,38 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-color: rgb(213, 245, 249);
+}
+.main-logo {
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: auto;
+}
+.id{
+   text-align: justify;
+   text-indent: 25px;
+   font-weight: bold;
+   font-family: Roboto;
+}
+.main-container{
+   text-align: center;
+   margin-left: 50px;
+   margin-right: 50px;
+   text-indent: 25px;
+}
+.main-text{
+   text-align: justify;
+}
+.section-title{
+   text-align: center;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+.line{
+   margin-left: 50px;
+   margin-right: 50px;
+   height: 5px;
+   border: 0;
+   background-color: rgba(32, 132, 225, 0.697);
+}
